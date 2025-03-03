@@ -1,0 +1,98 @@
+{
+  "nodes": [
+    {
+      "id": "6c58233402982b9c",
+      "type": "file",
+      "file": "FunCity/SkyEarthHuman/SkyEarthHuman.gif",
+      "x": 80,
+      "y": -1060,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "1afe055691daeb19",
+      "type": "file",
+      "file": "FunCity/TruthBeautyBalance/TruthBeautyBalance.gif",
+      "x": 80,
+      "y": -610,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "4cb8af9f19cf043a",
+      "type": "file",
+      "file": "FunCity/LetBeautyLead/LetBeautyLead.mp4",
+      "x": 80,
+      "y": -120,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "a593146521e42284",
+      "type": "text",
+      "text": "Human as bridge between Sky and Earth\n- sphere represents sky realm\n\t- corresponds to beauty\n- cube represents earth realm\n\t- corresponds to truth\n- when the heart of a human is closed he can't perceive the sky realm (heaven)\n\t- represented by blue triangular sphere\n- so he lives in darkness in the earth realm\n\t- can only see what's right in front of him\n\t- can't see the bigger picture\n- by opening the heart the sky realm becomes accessible and brings light into the darkness\n\t- represented by golden \"flower of life\" sphere",
+      "x": -396,
+      "y": -1072,
+      "width": 356,
+      "height": 425
+    },
+    {
+      "id": "7459c857cc78de23",
+      "type": "text",
+      "text": "FengShui: balance truth and beauty\n- golden sphere represents beauty\n- blue cube represents truth\n- attention/focus (represented by light) constantly needs to alternate between the two so they can support each other\n\t- beauty lights the way\n\t- truth grounds each step",
+      "x": -396,
+      "y": -566,
+      "width": 356,
+      "height": 312
+    },
+    {
+      "id": "3ba5b35e9d39c4ff",
+      "type": "text",
+      "text": "Let Beauty Lead\n- Golden Sphere represents beauty\n- the light of beauty guides the way (north star)\n- truth follows beauty and grounds every step into actionable results",
+      "x": -396,
+      "y": -126,
+      "width": 356,
+      "height": 237
+    }
+  ],
+  "edges": [
+    {
+      "id": "23e39727dff8cccb",
+      "fromNode": "a593146521e42284",
+      "fromSide": "bottom",
+      "toNode": "7459c857cc78de23",
+      "toSide": "top"
+    },
+    {
+      "id": "90646d430d6fb500",
+      "fromNode": "7459c857cc78de23",
+      "fromSide": "bottom",
+      "toNode": "3ba5b35e9d39c4ff",
+      "toSide": "top"
+    },
+    {
+      "id": "7d5782871b9338e4",
+      "fromNode": "3ba5b35e9d39c4ff",
+      "fromSide": "right",
+      "toNode": "4cb8af9f19cf043a",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "e59057b7f6db5015",
+      "fromNode": "7459c857cc78de23",
+      "fromSide": "right",
+      "toNode": "1afe055691daeb19",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "d6db56134da043d9",
+      "fromNode": "a593146521e42284",
+      "fromSide": "right",
+      "toNode": "6c58233402982b9c",
+      "toSide": "left",
+      "toEnd": "none"
+    }
+  ]
+}
