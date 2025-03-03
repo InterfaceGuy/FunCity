@@ -1,0 +1,106 @@
+{
+  "FunCity.sublime-project": null,
+  "Liminal Consulting Proposal Weixing.md": null,
+  "index.html": null,
+  "Liminal Consulting Proposal Weixing.pdf": null,
+  "Cabo Glossary.md": null,
+  "Cabo Preparation.md": null,
+  "Logging.md": null,
+  "DreamSong.canvas": null,
+  "FunCity.sublime-workspace": null,
+  "WhitePaper.md": null,
+  "LetBeautyLead": {
+    "LetBeautyLead.mp4": null,
+    "LetBeautyLead.c4d": null,
+    "LetBeautyLead.mov": null,
+    "tex": {},
+    "LetBeautyLead/tex": {
+      "SingleStarBackground2.png": null,
+      "ManifestationTunnel": {
+        "SingleStarBackground.png": null,
+        "SingleStarBackground2.png": null,
+        "SingleStar.png": null,
+        "ManifestationTunnel.c4d": null,
+        "Starlight.key": null,
+        "ManifestationTunnel.mp4": null,
+        "Stars.png": null,
+        "Color": {},
+        "Alpha": {},
+        "ManifestationTunnel/Color": {
+          "FourierScene04.mov": null,
+          "FourierScene10.mov": null,
+          "FourierScene05.mov": null,
+          "FourierScene07.mov": null,
+          "FourierScene06.mov": null,
+          "FourierScene02.mov": null,
+          "FourierScene03.mov": null,
+          "FourierScene01.mov": null,
+          "FourierScene08.mov": null,
+          "FourierScene09.mov": null,
+          "ManifestationTunnel/Alpha": {
+            "FourierScene_alpha09.mov": null,
+            "FourierScene_alpha08.mov": null,
+            "FourierScene_alpha06.mov": null,
+            "FourierScene_alpha07.mov": null,
+            "FourierScene_alpha05.mov": null,
+            "FourierScene_alpha04.mov": null,
+            "FourierScene_alpha10.mov": null,
+            "FourierScene_alpha01.mov": null,
+            "FourierScene_alpha03.mov": null,
+            "FourierScene_alpha02.mov": null,
+            "Invoices": {
+              "Invoice FTR ATSIRE01FTR_12_error.pdf": null,
+              "Invoice FTR 1R-12.pdf": null,
+              "Invoice FT ATSIRE01FT_6.pdf": null,
+              "Fatura ATSIRE01FTR-10.pdf": null,
+              "Invoice FTR ATSIRE01FTR_18.pdf": null,
+              "Invoice FTR ATSIRE01FTR_12_fixed.pdf": null,
+              "Fatura ATSIRE01FTR-18.pdf": null,
+              "Invoice FTR ATSIRE01FTR_10.pdf": null,
+              "Invoice FTR ATSIRE01FTR_14.pdf": null,
+              "Fatura FTR-15.pdf": null,
+              "Invoice # R ATSIRE01R_1.pdf": null,
+              "Invoice # FTR ATSIRE01FTR_7 D.pdf": null,
+              "Invoice # FTR ATSIRE01FTR_4.pdf": null,
+              "Invoice # FTR ATSIRE01FTR_1.pdf": null,
+              "Fatura FT ATSIRE01FT-6.pdf": null,
+              "Fatura ATSIRE01FTR-7 - Anulado.pdf": null,
+              "Fatura ATSIRE01FTR-7.pdf": null,
+              "DreamSongUI": {
+                "styles.css": null,
+                "update_submodules.py": null,
+                "README.md": null,
+                "linearFlowCanvas.js": null,
+                "SkyEarthHuman": {
+                  "SkyEarthHuman.key": null,
+                  "OpeningHeart.c4d": null,
+                  "SkyEarthHuman.gif": null,
+                  "tex": {},
+                  "SkyEarthHuman/tex": {
+                    "SingleStarBackground2.png": null,
+                    "TruthBeautyBalance": {
+                      "TruthBeautyBalance.mp4": null,
+                      "TruthBeautyBalance.gif": null,
+                      "TruthBeautyBalance.c4d": null,
+                      "TruthBeautyBalance.key": null,
+                      "tex": {},
+                      "TruthBeautyBalance/tex": {
+                        "SingleStarBackground2.png": null
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "ManifestationTunnel": {},
+  "Invoices": {},
+  "DreamSongUI": {},
+  "SkyEarthHuman": {},
+  "TruthBeautyBalance": {},
+  "parent_directory": "FunCity"
+}
