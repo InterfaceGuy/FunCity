@@ -8,8 +8,10 @@
 		{"id":"3ba5b35e9d39c4ff","type":"text","text":"Let Beauty Lead\n- Golden Sphere represents beauty\n- the light of beauty guides the way (north star)\n- truth follows beauty and grounds every step into actionable results","x":-396,"y":-126,"width":356,"height":237}
 	],
 	"edges":[
-		{"id":"23e39727dff8cccb","fromNode":"a593146521e42284","fromSide":"right","toNode":"6c58233402982b9c","toSide":"left"},
-		{"id":"90646d430d6fb500","fromNode":"7459c857cc78de23","fromSide":"right","toNode":"1afe055691daeb19","toSide":"left"},
-		{"id":"7d5782871b9338e4","fromNode":"3ba5b35e9d39c4ff","fromSide":"right","toNode":"4cb8af9f19cf043a","toSide":"left"}
+		{"id":"23e39727dff8cccb","fromNode":"a593146521e42284","fromSide":"bottom","toNode":"7459c857cc78de23","toSide":"top"},
+		{"id":"90646d430d6fb500","fromNode":"7459c857cc78de23","fromSide":"bottom","toNode":"3ba5b35e9d39c4ff","toSide":"top"},
+		{"id":"7d5782871b9338e4","fromNode":"3ba5b35e9d39c4ff","fromSide":"right","toNode":"4cb8af9f19cf043a","toSide":"left","toEnd":"none"},
+		{"id":"e59057b7f6db5015","fromNode":"7459c857cc78de23","fromSide":"right","toNode":"1afe055691daeb19","toSide":"left","toEnd":"none"},
+		{"id":"d6db56134da043d9","fromNode":"a593146521e42284","fromSide":"right","toNode":"6c58233402982b9c","toSide":"left","toEnd":"none"}
 	]
 }
